@@ -1,8 +1,7 @@
 # Dio-Dashboard-de-Vendas-de-Produtos-XBOX
 Repositório destinado ao projeto de construção de uma dashboard de vendas de produtos XBOX.
 
-## Ferramenta de Simulação de Fundos Imobiliários
-
+## Dashboard de Vendas de produtos XBOX
 Esse projeto tem como objetivo por em prática os conhecimentos passados no terceiro módulo do curso e a entrega de um dashboard de vendas em formato de planila (.xlsx).
 
 ### Tecnologia Utilizada
